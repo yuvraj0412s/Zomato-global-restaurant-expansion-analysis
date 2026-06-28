@@ -7,7 +7,7 @@
 [![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDN2MThoMThNMjEgOWwtNiA2LTMtMy01IDUiLz48L3N2Zz4=)](https://www.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![Zomato Dashboard](assets/dashboard.png)
+![Zomato Coverpage](assets/coverpage.png)
 
 </div>
 
@@ -64,6 +64,8 @@ This analysis relied on robust data manipulation and visualization techniques wi
 ## 📈 Dashboard Preview & Analysis
 
 ### Executive Summary Dashboard
+![Zomato Dashboard](assets/dashboard.png)
+![City Expansion](assets/city-expansion.png)
 
 * **Market Saturation KPI:** Visualizes the stark concentration of restaurants in India versus the latent potential in emerging markets like the UAE and Indonesia.
 * **Pricing & Performance Correlation:** Demonstrates how higher-priced dining establishments consistently secure higher average user ratings.
@@ -80,6 +82,8 @@ This analysis relied on robust data manipulation and visualization techniques wi
 ---
 
 ## 🚀 Strategic Recommendations
+
+![Strategic Recommendations](assets/recommendations.png)
 
 Based on the data analysis, the following actions are recommended for the executive team:
 
