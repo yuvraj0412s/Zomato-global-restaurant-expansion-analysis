@@ -38,8 +38,6 @@ The dataset provides a granular view of restaurant performance metrics across mu
 
 ## 🔄 Project Workflow
 
-![Workflow Overview](assets/workflow.png)
-
 1. **Raw Data Extraction:** Sourced multi-national Zomato restaurant data.
 2. **Data Cleaning:** Imputed missing geographical data, standardized currency and pricing schemas.
 3. **Feature Engineering:** Developed composite metrics for user engagement and market saturation.
@@ -66,7 +64,6 @@ This analysis relied on robust data manipulation and visualization techniques wi
 ## 📈 Dashboard Preview & Analysis
 
 ### Executive Summary Dashboard
-![Expansion Analysis](assets/expansion-analysis.png)
 
 * **Market Saturation KPI:** Visualizes the stark concentration of restaurants in India versus the latent potential in emerging markets like the UAE and Indonesia.
 * **Pricing & Performance Correlation:** Demonstrates how higher-priced dining establishments consistently secure higher average user ratings.
