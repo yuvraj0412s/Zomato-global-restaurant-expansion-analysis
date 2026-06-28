@@ -1,0 +1,11 @@
+# Excel and OS files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
